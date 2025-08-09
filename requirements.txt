@@ -1,1 +1,5 @@
-streamlitpandasnumpyscikit-learnplotlyshapxgboostlazypredict 
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
